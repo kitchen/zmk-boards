@@ -1,0 +1,6 @@
+if SHIELD_BREADKITCHEN
+
+config ZMK_KEYBOARD_NAME
+       default "breadkitchen"
+
+endif

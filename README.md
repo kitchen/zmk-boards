@@ -25,3 +25,7 @@ This will leave a zmk.uf2 file in the build/zephyr directory.
 # breadkitchen
 
 This is a nice!nano powered keyboard-in-a-breadboard experimentation platform thinger.
+
+# License
+
+since this is mostly config, I'm not even really sure it is licensable, but in the off chance it is I'll license it with the [WTFPL license](http://www.wtfpl.net/about/ "WTFPL license"). Enjoy.
